@@ -13,7 +13,7 @@ efficient way possible and with the highest possible rate of success.
 * Matplotlib
 * Seaborn
 * Scikit-learn
-# Data dexcription
+# Data description
 * Age (numeric)
 * Job : type of job (categorical:
 ' admin.','blue-collar','entrepreneur','housemaid','management','retired','s
@@ -35,4 +35,15 @@ efficient way possible and with the highest possible rate of success.
   this client (numeric)
 * Poutcome: Outcome of the previous marketing campaign (categorical:
 'failure', 'nonexistent', 'success')
-
+# Project description
+* EDA - Performed exploratory data analysis on the basis of numerical and categorical data.
+* Data cleaning - Null value imputation, null value treatment.
+* Model Building - As per the requirement of the project we build 
+* Logistic Regression
+* Decision Tree
+* XGBoost Classifier
+* K - Nearest Neighbors
+# Project done by
+|Name | Email Address |
+|---------|-----------------|
+|[Deveshya gupta]| @deveshyagupta9454@gmail.com |
